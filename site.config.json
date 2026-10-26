@@ -1,0 +1,302 @@
+{
+  "templateVersion": "6.0.0",
+  "mode": "starter",
+  "clientId": "praxis-development-2026",
+  "brand": {
+    "name": "Praxis Development (Pty) Ltd",
+    "shortName": "PRAXIS DEVELOPMENT",
+    "tagline": "Building organisations that work",
+    "description": "Pan-African boutique consultancy specialising in evidence-based organisational development, leadership, strategic transformation and institutional resilience.",
+    "domain": "",
+    "logo": "/brand/praxis-mark.png",
+    "accent": "#e9a51c",
+    "accentDark": "#cb8610",
+    "aboutIntro": "Praxis Development is a pan-African boutique consultancy. By blending psychology, innovation and social sciences, we refine the strategies, structures and processes that help organisations adapt and thrive.",
+    "mission": "To spark sustainable development by transforming organisational structures, cultures and skills—empowering institutions to confidently navigate complexity and crisis.",
+    "vision": "To cultivate a resilient landscape of African organisations and leaders who deliver high-impact social and economic outcomes, fostering sustainable development and elevating the quality of life across communities they serve.",
+    "values": [
+      "Contextual Agility",
+      "Radical Efficiency",
+      "Future-Proof Leadership",
+      "Evidence-Led Transformation",
+      "Structural Resilience"
+    ],
+    "socialImage": "/brand/praxis-logo.jpg"
+  },
+  "contact": {
+    "phone": "+27 63 126 6771",
+    "whatsapp": "",
+    "email": "",
+    "address": "Johannesburg, South Africa",
+    "mapEmbedUrl": "",
+    "hours": "By appointment",
+    "serviceArea": "Across Africa",
+    "website": ""
+  },
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "tiktok": "",
+    "linkedin": "",
+    "youtube": ""
+  },
+  "features": {
+    "pwaEnabled": true,
+    "showInstallPrompt": true,
+    "chatAssistant": true,
+    "showTestimonials": false,
+    "showGallery": true
+  },
+  "pwa": {
+    "shortName": "Praxis",
+    "cacheVersion": "praxis-v1",
+    "icon192": "/brand/praxis-icon-192.png",
+    "icon512": "/brand/praxis-icon-512.png"
+  },
+  "heroSlides": [
+    {
+      "eyebrow": "EVIDENCE-LED ORGANISATIONAL DEVELOPMENT",
+      "heading": "Building organisations",
+      "highlight": "that work.",
+      "description": "Science-backed strategy meets Ubuntu-centred leadership. We help African organisations adapt, grow and create lasting impact.",
+      "image": "https://images.pexels.com/photos/30689114/pexels-photo-30689114.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "eyebrow": "STRATEGY · STRUCTURE · RESILIENCE",
+      "heading": "Turn complexity into",
+      "highlight": "capability.",
+      "description": "From organisational diagnostics to strategic transformation, we make better ways of working possible.",
+      "image": "https://images.pexels.com/photos/3869649/pexels-photo-3869649.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "eyebrow": "LEADERSHIP FOR A CHANGING AFRICA",
+      "heading": "Develop the people",
+      "highlight": "who drive progress.",
+      "description": "Build agile leaders, high-performing teams and institutions equipped to thrive in uncertain times.",
+      "image": "https://images.pexels.com/photos/5668778/pexels-photo-5668778.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    }
+  ],
+  "services": [
+    {
+      "id": "diagnostics",
+      "name": "Organisational Health Check-ups",
+      "summary": "Deep diagnostic evaluations of organisational culture, readiness, resilience and structural effectiveness.",
+      "details": "Map existing strengths and identify targeted opportunities for sustainable institutional performance.",
+      "image": "https://images.pexels.com/photos/5668778/pexels-photo-5668778.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "id": "strategy",
+      "name": "Strategy & Structure Design",
+      "summary": "Agile business frameworks and governance models designed to align daily operations with long-term goals.",
+      "details": "Strengthen governance, reshape structures and build adaptive operating models for changing contexts.",
+      "image": "https://images.pexels.com/photos/30689114/pexels-photo-30689114.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "id": "change",
+      "name": "Change Management & Implementation",
+      "summary": "Human-centred transitions from business as usual to sustainable growth and higher impact.",
+      "details": "Tailored change roadmaps, stakeholder engagement, readiness building and adoption support.",
+      "image": "https://images.pexels.com/photos/3869649/pexels-photo-3869649.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "id": "leadership",
+      "name": "Future-Proof Leadership Development",
+      "summary": "Coaching, agile leadership training and succession strategies grounded in African realities.",
+      "details": "Values-led transformational coaching, executive adaptability and development of emerging leaders.",
+      "image": "https://images.pexels.com/photos/9487622/pexels-photo-9487622.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "id": "operations",
+      "name": "Operational Excellence & Project Management",
+      "summary": "Structured oversight, improved workflows and monitoring, evaluation and learning for accountability.",
+      "details": "Project management, strategic realignment, efficiency improvement and practical MEL systems.",
+      "image": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "id": "capacity",
+      "name": "Specialised Capacity Building",
+      "summary": "High-impact training, workshops and mentoring for public institutions and non-profit organisations.",
+      "details": "Build resilience, community engagement capacity and sustainable technical and leadership skills.",
+      "image": "https://images.pexels.com/photos/3894383/pexels-photo-3894383.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "logos-1",
+      "title": "Emthonjeni · Fountains of Life",
+      "category": "Featured in supplied company materials",
+      "image": "/brand/partner-emthonjeni.png"
+    },
+    {
+      "id": "logos-2",
+      "title": "Wild Africa",
+      "category": "Featured in supplied company materials",
+      "image": "/brand/partner-wild-africa.png"
+    },
+    {
+      "id": "logos-3",
+      "title": "Reconcile International",
+      "category": "Featured in supplied company materials",
+      "image": "/brand/partner-reconcile-international.png"
+    },
+    {
+      "id": "logos-4",
+      "title": "Colleges & Institutes Canada",
+      "category": "Featured in supplied company materials",
+      "image": "/brand/partner-colleges-institutes.png"
+    }
+  ],
+  "testimonials": [],
+  "faqs": [
+    {
+      "question": "What does Praxis Development specialise in?",
+      "answer": "We work in evidence-based organisational development, including diagnostics, strategy and structure, change management, leadership development, operational excellence and capacity building."
+    },
+    {
+      "question": "Which organisations do you work with?",
+      "answer": "Our services are tailored for NGOs and community organisations, donor agencies, governments, philanthropic foundations, and international organisations, as well as private-sector clients."
+    },
+    {
+      "question": "Can training be customised?",
+      "answer": "Yes. Praxis offers high-impact, on-demand training programmes tailored to the goals and context of each organisation."
+    },
+    {
+      "question": "What is the Ubuntu-Science approach?",
+      "answer": "We combine rigorous research and organisational diagnosis with inclusive, human-centred implementation grounded in Ubuntu."
+    },
+    {
+      "question": "Where is Praxis Development based?",
+      "answer": "Praxis Development is based in Johannesburg, South Africa, and describes its work as pan-African."
+    },
+    {
+      "question": "How do we start an engagement?",
+      "answer": "Call our Johannesburg contact number or prepare an enquiry through the website to discuss your organisational needs and next steps."
+    }
+  ],
+  "training": [
+    {
+      "id": "leadership",
+      "name": "Leadership & Governance",
+      "icon": "landmark",
+      "description": "Lead with purpose, sound governance and a whole-system perspective.",
+      "topics": [
+        "Leading in Turbulent Times",
+        "Learning to Lead",
+        "Non-Profit Governance",
+        "Systems Thinking",
+        "Social Entrepreneurship"
+      ]
+    },
+    {
+      "id": "operations",
+      "name": "Operational Excellence & Grant Management",
+      "icon": "chart",
+      "description": "Manage resources, funding, teams and projects with accountability.",
+      "topics": [
+        "Grant Management & Compliance",
+        "Resource Mobilisation",
+        "Monitoring, Evaluation & Adaptive Learning",
+        "Results-Based Management",
+        "Project Management",
+        "Digital Strategy for Impact",
+        "Winning Proposal Writing"
+      ]
+    },
+    {
+      "id": "people",
+      "name": "Team Dynamics & Human Capital",
+      "icon": "users",
+      "description": "Build cohesive, resilient and inclusive organisations.",
+      "topics": [
+        "High-Performance Teams",
+        "Managing Diversity",
+        "Conflict Resolution",
+        "Change Management"
+      ]
+    },
+    {
+      "id": "technical",
+      "name": "Technical Skills & Innovation",
+      "icon": "lightbulb",
+      "description": "Work smarter with stronger business skills and responsible innovation.",
+      "topics": [
+        "Finance for Non-Financial Managers",
+        "Technical Writing",
+        "Smart Decision-Making",
+        "Partnering with AI"
+      ]
+    },
+    {
+      "id": "personal",
+      "name": "Personal Mastery",
+      "icon": "sparkles",
+      "description": "Develop personal leadership, self-awareness and executive discipline.",
+      "topics": [
+        "Personal Leadership"
+      ]
+    }
+  ],
+  "team": [
+    {
+      "id": "thami",
+      "name": "Thami Sonile",
+      "role": "Founder & Principal Consultant",
+      "specialty": "Grants, Compliance & Institutional Resilience",
+      "image": "/brand/thami.jpg",
+      "bio": "Founder of Praxis Development and an award, grants and compliance strategist with over two decades of experience across African development programmes. Thami has managed development portfolios exceeding US$170 million and held regional roles with TechnoServe, DAI Global, Chemonics International and FHI360.",
+      "expertise": [
+        "Institutional transformation and strategy",
+        "Leadership mentorship and community mobilisation",
+        "Grants and contracts management",
+        "Donor compliance and risk mitigation",
+        "Digital transformation and operational efficiency"
+      ]
+    },
+    {
+      "id": "bwalya",
+      "name": "Bwalya Mwelwa",
+      "role": "Operations Manager",
+      "specialty": "Public Administration & Brand Strategy",
+      "image": "/brand/bwalya.jpg",
+      "bio": "Bwalya leads the firm’s day-to-day operations, bringing more than five years of public administration and corporate experience across southern Africa. Her work spans cross-functional teams, market activation, logistics, client relations and digital stakeholder engagement.",
+      "expertise": [
+        "Operational excellence and administration",
+        "Governance and public administration",
+        "Cross-functional team leadership",
+        "Digital stakeholder engagement and client care",
+        "Market analysis, logistics and database management"
+      ]
+    },
+    {
+      "id": "lifutso",
+      "name": "Lifutso Motsieloa (PhD)",
+      "role": "Associate",
+      "specialty": "Public Health Strategy & Implementation Science",
+      "image": "/brand/lifutso.jpg",
+      "bio": "Public health strategist with over 20 years of experience across national and donor-funded programmes. Her work spans HIV, TB, health systems strengthening, national strategic planning, monitoring and evaluation and implementation science. She has collaborated with UNAIDS, WHO, CDC and the Global Fund.",
+      "expertise": [
+        "National strategic health planning",
+        "Implementation science and policy development",
+        "Monitoring and evaluation",
+        "Global Fund and donor proposals",
+        "Differentiated service delivery and health equity"
+      ]
+    },
+    {
+      "id": "arno",
+      "name": "Arno Haegens",
+      "role": "Associate",
+      "specialty": "Development Communication & Public Diplomacy",
+      "image": "/brand/arno.jpg",
+      "bio": "Development communication strategist with more than 25 years of experience across Africa and Southeast Asia, including work with United Nations programmes, governments and international partners. Arno specialises in communication for development, advocacy, public diplomacy and cross-cultural stakeholder engagement.",
+      "expertise": [
+        "Communication for Development (C4D)",
+        "Public diplomacy and advocacy campaigns",
+        "Multi-sectoral development strategy",
+        "Global donor and partner alignment",
+        "Cross-cultural leadership and transparency"
+      ]
+    }
+  ],
+  "companyRegistration": "2025/174337/07"
+}
